@@ -10,7 +10,7 @@
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.3);
     color: #f1f1f1;
-    height: 70vw;
+    height: 53vw;
     position: absolute;
     font-family: 'Fira Sans', sans-serif;
     transition: transform 0.3s ease-in;
@@ -364,4 +364,6 @@ border-bottom: 2px solid #ddd;
     .intro p {
         margin-left: 20px;
     }
+    .sidebar{
+        height: 70vw;
 }
